@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.contrainer {
+    width: 1140px;
+    margin: 0 auto;
+}
+
+body {
+    background-color: #D6E1FF;
+}
+
+.card {
+    background-color: #fff;
+    justify-content: center;
+    width: 450px;
+    margin-top: 10px;
+    border-radius: 20px;
+    margin-left: 290px;
+}
+
+.paragrof1 {
+    font-family: Red Hat Display;
+    font-size: 28px;
+    font-weight: 900;
+    line-height: 37.04px;
+    text-align: center;
+}
+
+.paragrof2 {
+    font-family: Red Hat Display;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: center;
+}
+
+.paragrof3 {
+    font-family: Red Hat Display;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 18.52px;
+    text-align: left;
+    color: blue;
+}
+
+.card2 {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10px;
+    align-items: center;
+    margin-right: 10px;
+    background-color: #F7F9FF;
+    padding-bottom: 5px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+.plan-img {
+    margin-right: 190px;
+}
+
+.a-hrefting {
+    color: blue;
+    margin-right: 20px;
+}
+
+.img-music{
+    margin-left: 20px;
+}
+
+.btn {
+    border: none;
+    padding: 15px 102px;
+    justify-content: center;
+    margin-left: 70px;
+    color: white;
+    background-color: #382AE1;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    box-shadow: 1px 10px 20px gray;
+}
+
+.paragrof4 {
+    font-family: Red Hat Display;
+    font-size: 15px;
+    font-weight: 900;
+    line-height: 19.85px;
+    text-align: center;
+    color: grey;
+    margin-top: 20px;
+}
